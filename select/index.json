@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "I'm out",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-03-31T09:53:09.631329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Out Deah",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_I'm_Out_Deah_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strike 3 (And I'm Out)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/02_Strike_3_(And_I'm_Out)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When I’m Out of Town",
+      "artist": "The 6ths feat. Chris Knox",
+      "has_synced": false,
+      "path": "select/03_When_I’m_Out_of_Town_The_6ths_feat._Chris_Knox.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When I'm Out Of Town (feat. Chris Knox)",
+      "artist": "The 6ths",
+      "has_synced": false,
+      "path": "select/04_When_I'm_Out_Of_Town_(feat._Chris_Knox)_The_6ths.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I’m Pretty Sure I’m Out Of Luck And Have No Friends",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/05_I’m_Pretty_Sure_I’m_Out_Of_Luck_And_Have_No_Friends_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm out to Get",
+      "artist": "Billy Bragg & Wilco",
+      "has_synced": true,
+      "path": "select/06_I'm_out_to_Get_Billy_Bragg_&_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I’m In I’m Out And I’m Gone",
+      "artist": "Ben Harper with Charlie Musselwhite",
+      "has_synced": true,
+      "path": "select/07_I’m_In_I’m_Out_And_I’m_Gone_Ben_Harper_with_Charlie_Musselwhite.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm In I'm Out And I'm Gone",
+      "artist": "Ben Harper With Charlie Musselwhite",
+      "has_synced": true,
+      "path": "select/08_I'm_In_I'm_Out_And_I'm_Gone_Ben_Harper_With_Charlie_Musselwhite.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When I'm Out of Town",
+      "artist": "The 6ths",
+      "has_synced": true,
+      "path": "select/09_When_I'm_Out_of_Town_The_6ths.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When I'm Out Of Town",
+      "artist": "6ths",
+      "has_synced": true,
+      "path": "select/10_When_I'm_Out_Of_Town_6ths.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Out (feat. Nicki Minaj)",
+      "artist": "Ciara feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/11_I'm_Out_(feat._Nicki_Minaj)_Ciara_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Out",
+      "artist": "Ciara",
+      "has_synced": true,
+      "path": "select/12_I'm_Out_Ciara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Out to Get",
+      "artist": "Billy Bragg",
+      "has_synced": true,
+      "path": "select/13_I'm_Out_to_Get_Billy_Bragg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Out Of Your Mind",
+      "artist": "De Staat",
+      "has_synced": true,
+      "path": "select/14_I'm_Out_Of_Your_Mind_De_Staat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm out",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/15_I'm_out_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fuck This, I'm Out",
+      "artist": "Off with Their Heads",
+      "has_synced": true,
+      "path": "select/16_Fuck_This,_I'm_Out_Off_with_Their_Heads.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm out to Get You",
+      "artist": "Robin Trower",
+      "has_synced": false,
+      "path": "select/17_I'm_out_to_Get_You_Robin_Trower.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Out Of My Mind",
+      "artist": "Loving Caliber feat. G Curtis",
+      "has_synced": true,
+      "path": "select/18_I'm_Out_Of_My_Mind_Loving_Caliber_feat._G_Curtis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Out Of My Mind",
+      "artist": "Loving Caliber, G Curtis",
+      "has_synced": true,
+      "path": "select/19_I'm_Out_Of_My_Mind_Loving_Caliber,_G_Curtis.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Even Though I'm Leaving",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/20_Even_Though_I'm_Leaving_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/21_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I'm Still Standing",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/22_I'm_Still_Standing_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Look At The Mess I'm In",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/23_Look_At_The_Mess_I'm_In_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I'm Sleepin' In",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/24_I'm_Sleepin'_In_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I'm Sleepin' In",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/25_I'm_Sleepin'_In_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I'm In Your Mind",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/26_I'm_In_Your_Mind_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I'm in Your Mind",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/27_I'm_in_Your_Mind_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I'm In Your Mind Fuzz",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/28_I'm_In_Your_Mind_Fuzz_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I'm in Your Mind Fuzz",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/29_I'm_in_Your_Mind_Fuzz_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "(I'm A) Stand by My Woman Man",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/30_(I'm_A)_Stand_by_My_Woman_Man_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I'm Settin' Fancy Free - Single Version",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": false,
+      "path": "select/31_I'm_Settin'_Fancy_Free_-_Single_Version_The_Oak_Ridge_Boys.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "(I'm Settin') Fancy Free (Single Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/32_(I'm_Settin')_Fancy_Free_(Single_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "(I'm So) Afraid of Losing You Again",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/33_(I'm_So)_Afraid_of_Losing_You_Again_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/34_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/35_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm out",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_out_FAKE_TYPE..txt"
+    }
+  ]
+}
